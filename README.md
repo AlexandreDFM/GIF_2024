@@ -2,7 +2,7 @@
 
 Eumag is a music platform where composers and producers find the right voice for their next track: browse singers, listen to their a cappella samples, and ask an AI to generate a custom a cappella from a short description.
 
-It was built in two days (24–25 October 2024) by a team of Keimyung University students for the **Global Innovator Hackathon** at **GIF 2024**, the 9th [Global Innovator Festa](https://www.gifesta.kr/) in Daegu, South Korea. It was one of the award-winning projects.
+It was built in two days (24–25 October 2024) by a team of Keimyung University students for the **Global Innovator Hackathon** at **GIF 2024**, the 9th [Global Innovator Festa](https://www.gifesta.kr/) in Daegu, South Korea, where it **won first place** in the hackathon.
 
 > **Status:** archived. This is a hackathon prototype, kept as a record of the event. The dependencies were updated in November 2026 so that it still installs and builds cleanly, but nothing else is planned.
 
@@ -59,3 +59,9 @@ Open `/landing` for the product page, or `/` for the app itself.
 - Alexandre DE FREITAS MARTINS ([@AlexandreDFM](https://github.com/AlexandreDFM))
 
 The original repository is [LLEJAILLE/hackathonDaegu](https://github.com/LLEJAILLE/hackathonDaegu).
+
+## License
+
+The code is released under the [MIT License](LICENSE), © 2024 Louis Lejaille ([@LLEJAILLE](https://github.com/LLEJAILLE)), Antoine ([@AntoineZK](https://github.com/AntoineZK)) and Alexandre DE FREITAS MARTINS ([@AlexandreDFM](https://github.com/AlexandreDFM)).
+
+The demo content (album covers, a cappella samples, photos and illustrations in `src/assets/`) and the event photo are not covered by this licence and remain the property of their respective owners.
