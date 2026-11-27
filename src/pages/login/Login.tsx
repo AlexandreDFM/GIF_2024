@@ -1,12 +1,12 @@
 import './Login.css';
-import { useState } from 'react';
+import { FormEvent, MouseEvent, useState } from 'react';
 
 
 const Login = () => {
     const [username, setUsername] = useState('');
     const [password, setPassword] = useState('');
 
-    const handleLogin = (e: any) => {
+    const handleLogin = (e: FormEvent | MouseEvent) => {
         e.preventDefault();
         window.location.href = '/home';
     }
